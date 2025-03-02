@@ -79,7 +79,7 @@ sns.heatmap(confusion_matrix(y_test, y_pred), annot=True, cmap='Blues')
 plt.title('Confusion Matrix')
 plt.show()
 ```
-# 6. Power BI Dashboard Recommendations
+# 6. Power BI Dashboard
 - Churn Rate Analysis (Pie Chart)
 - Total Charges vs. Churn Status (Boxplot)
 - Customer Service Calls vs. Churn (Bar Chart)
